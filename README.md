@@ -84,7 +84,7 @@ Z **ponad 15-letnim doświadczeniem** w branży IT, specjalizuję się w projekt
   - `GitLab CI/CD`, `Semantic Releases`, `Conventional Commits`
   - `Traefik`, `Keycloak`, `Azure`
 
-- **Monitoring & Obserwacyjność**
+- **Monitoring & Obserwowalność**
   - `OpenTelemetry`, `Prometheus`, `Grafana`
   - `ELK Stack`, `SEQ`, `Application Insights`
   - `Jaeger`, `WireMock`, `SpecFlow`
@@ -110,4 +110,4 @@ Z **ponad 15-letnim doświadczeniem** w branży IT, specjalizuję się w projekt
 ### 📫 Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leszekszpunar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leszekszpunar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leszekszpunar)
